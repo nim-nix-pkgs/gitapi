@@ -11,6 +11,7 @@
   inputs.src-gitapi-master.ref   = "refs/heads/master";
   inputs.src-gitapi-master.owner = "achesak";
   inputs.src-gitapi-master.repo  = "nim-gitapi";
+  inputs.src-gitapi-master.dir   = "";
   inputs.src-gitapi-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
