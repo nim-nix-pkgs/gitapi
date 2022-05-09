@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-gitapi",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-gitapi/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/achesak/nim-gitapi/': SSL connection timeout",
     ""
   ],
   "heads": []
