@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-gitapi",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-gitapi/': SSL connection timeout",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "gitapi",
+      "version": "0.2",
+      "author": "Adam Chesak",
+      "desc": "module for working with git version control software",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
