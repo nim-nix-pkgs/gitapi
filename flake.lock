@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775839,
-        "narHash": "sha256-SgjNIjRtBaNbPNwv8vo58Db9JSjLMzvvMhQA/xM9+x0=",
+        "lastModified": 1669431113,
+        "narHash": "sha256-T3AEvXGo3/ac1t85X+wVveSXuH76m2gmz4r4hkXL3H0=",
         "owner": "nim-nix-pkgs",
         "repo": "gitapi",
-        "rev": "1fee38a13116f3a448f8dc8a00ea347b703c9094",
+        "rev": "a780b5bee36022445179122b60f39c1db8984d13",
         "type": "github"
       },
       "original": {
